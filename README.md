@@ -25,8 +25,7 @@ React functional components with hooks (useState, useEffect)
 
 Reusable, dynamic components
 
-Semantic HTML (<ul>, <li>, <div>)
+Semantic HTML ("<ul>", "<li>", "<div>")
 
 Handling edge cases like empty data or API errors
 
-Would you like a sample code snippet to help you get started with this task?
